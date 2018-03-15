@@ -1,0 +1,1 @@
+sns.heatmap(train.corr(), fmt='.2f', annot = True, linewidths=.3);
